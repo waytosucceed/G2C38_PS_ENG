@@ -1,0 +1,230 @@
+{
+  "heading": "Prepositions",
+  "topics": [
+    {
+      "heading": "Prepositions",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which of the following is a preposition?",
+          "options": [
+            { "text": "Soft" },
+            { "text": "In" },
+            { "text": "Happy" }
+          ],
+          "answer": 1,
+          "explanation": "\"In\" is a preposition that tells us where something is, such as \"The toy is in the box.\" It shows the location of the toy."
+        },
+        {
+          "questionNo": 2,
+          "question": "Choose the preposition in this sentence: <br>\"The book is on the table.\"",
+          "options": [
+            { "text": "Book" },
+            { "text": "Table" },
+            { "text": "On" }
+          ],
+          "answer": 2,
+          "explanation": "\"On\" is a preposition because it shows where the book is located—on top of the table."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which word is a preposition?",
+          "options": [
+            { "text": "Dog" },
+            { "text": "At" },
+            { "text": "Walk" }
+          ],
+          "answer": 1,
+          "explanation": "\"At\" is a preposition that indicates location, like in the sentence \"We are at the park.\""
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank with the correct preposition: <br>\"She placed the pencil ___ the desk.\" <br><img src='./assests/4.png' width='150px'/>",
+          "options": [
+            { "text": "Under" },
+            { "text": "Of" },
+            { "text": "For" }
+          ],
+          "answer": 0,
+          "explanation": "\"Under\" is the correct preposition because it shows the position of the pencil beneath the desk."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which of these is a preposition?",
+          "options": [
+            { "text": "Above" },
+            { "text": "Run" },
+            { "text": "Red" }
+          ],
+          "answer": 0,
+          "explanation": "\"Above\" is a preposition because it tells where something is, like \"The kite is above the tree.\""
+        },
+        {
+          "questionNo": 6,
+          "question": "In the sentence <br>\"The cat is under the chair,\" <br>which word is the preposition?",
+          "options": [
+            { "text": "Cat" },
+            { "text": "Under" },
+            { "text": "Chair" }
+          ],
+          "answer": 1,
+          "explanation": "\"Under\" is a preposition showing the position of the cat in relation to the chair."
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blank:<br> \"We are going ___ the zoo today.\"",
+          "options": [
+            { "text": "On" },
+            { "text": "To" },
+            { "text": "Above" }
+          ],
+          "answer": 1,
+          "explanation": "\"To\" is a preposition indicating a direction toward a place."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which of the following is a preposition?",
+          "options": [
+            { "text": "Fast" },
+            { "text": "For" },
+            { "text": "Boy" }
+          ],
+          "answer": 1,
+          "explanation": "\"For\" is a preposition that often shows purpose or benefit, like in \"This gift is for you.\""
+        },
+        {
+          "questionNo": 9,
+          "question": "Choose the correct preposition:<br> \"The lamp is ___ the table.\"<br><img src='./assests/9.png' width='150px'/>",
+          "options": [
+            { "text": "Above" },
+            { "text": "Run" },
+            { "text": "In" }
+          ],
+          "answer": 0,
+          "explanation": "\"Above\" is a preposition showing the lamp’s position higher than the table."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which of the following is a preposition?",
+          "options": [
+            { "text": "At" },
+            { "text": "Strong" },
+            { "text": "Eat" }
+          ],
+          "answer": 0,
+          "explanation": "\"At\" is a preposition used to show location, like \"She is at the library.\""
+        },
+        {
+          "questionNo": 11,
+          "question": "Fill in the blank:<br> \"The bird flew ___ the house.\"",
+          "options": [
+            { "text": "For" },
+            { "text": "When" },
+            { "text": "Over" }
+          ],
+          "answer": 2,
+          "explanation": "\"Over\" shows the bird's position moving above the house."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which word in this sentence is a preposition? <br>\"They sat on the floor.\"",
+          "options": [
+            { "text": "They" },
+            { "text": "Sat" },
+            { "text": "On" }
+          ],
+          "answer": 2,
+          "explanation": "\"On\" is a preposition showing where they sat."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which word is a preposition?",
+          "options": [
+            { "text": "For" },
+            { "text": "Sit" },
+            { "text": "Blue" }
+          ],
+          "answer": 0,
+          "explanation": "\"For\" is a preposition showing purpose, like in \"This is for you.\""
+        },
+        {
+          "questionNo": 14,
+          "question": "Which word is a preposition?",
+          "options": [
+            { "text": "Sky" },
+            { "text": "Bright" },
+            { "text": "In" }
+          ],
+          "answer": 2,
+          "explanation": "\"In\" shows location, like in \"The toy is in the box.\""
+        },
+        {
+          "questionNo": 15,
+          "question": "Fill in the blank: <br>\"She hid ___ the blanket.\"",
+          "options": [
+            { "text": "Under" },
+            { "text": "At" },
+            { "text": "Above" }
+          ],
+          "answer": 0,
+          "explanation": "\"Under\" shows where she hid, beneath the blanket."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which of these words is a preposition?",
+          "options": [
+            { "text": "Happy" },
+            { "text": "Above" },
+            { "text": "Dog" }
+          ],
+          "answer": 1,
+          "explanation": "\"Above\" shows position, like in \"The lamp is above the table.\""
+        },
+        {
+          "questionNo": 17,
+          "question": "Choose the preposition: <br>\"She put the vase on the table.\"",
+          "options": [
+            { "text": "Put" },
+            { "text": "Vase" },
+            { "text": "On" }
+          ],
+          "answer": 2,
+          "explanation": "\"On\" is a preposition which shows where the vase is placed."
+        },
+        {
+          "questionNo": 18,
+          "question": "Fill in the blank:<br> \"The ball is ___ the box.\"<br><img src='./assests/18.png' width='150px'/>",
+          "options": [
+            { "text": "In" },
+            { "text": "Of" },
+            { "text": "For" }
+          ],
+          "answer": 0,
+          "explanation": "\"In\" is a preposition which shows the ball’s position inside the box."
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blank:<br> \"The flowers are ___ the garden.\"",
+          "options": [
+            { "text": "In" },
+            { "text": "Under" },
+            { "text": "Of" }
+          ],
+          "answer": 0,
+          "explanation": "\"In\" is a preposition which shows the location inside the garden."
+        },
+        {
+          "questionNo": 20,
+          "question": "Fill in the blank: <br>\"She is ___ her friend’s house.\"",
+          "options": [
+            { "text": "At" },
+            { "text": "Walk" },
+            { "text": "Yellow" }
+          ],
+          "answer": 0,
+          "explanation": "\"At\" is a preposition that shows the location of a specific place."
+        }
+      ]
+    }
+  ]
+}
